@@ -6,6 +6,7 @@ I am not really proud of this, as it is a really basic and little project.
 1) insert a key
 2) the choose 2 to encrypt or 3 to decript
 
+
 ### The algorithm: a Caesar cipher
 
 The way it works is by shifting characters, base opoun the key we give to the program.
